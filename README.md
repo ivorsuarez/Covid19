@@ -14,7 +14,12 @@ Este proyecto se actualiza regularmente con nuevos datos y visualizaciones a med
 
 ¡Gracias por utilizar mi proyecto de Power BI sobre casos de COVID-19!
 
+Aqui tenemos una PREVIEW del proyecto !
 
+---------------------------------------------
+
+
+<img width="1155" alt="Screenshot 2023-03-04 at 16 54 57" src="https://user-images.githubusercontent.com/121905254/222915998-6e62b261-f341-4d0d-8d04-9ebe2487dc79.png">
 
 
 
